@@ -1,0 +1,3 @@
+/home/lada/CLionProjects/dateBase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lada/CLionProjects/dateBase/cmake-build-debug/CMakeFiles/dateBase.dir
+/home/lada/CLionProjects/dateBase/cmake-build-debug/CMakeFiles/edit_cache.dir

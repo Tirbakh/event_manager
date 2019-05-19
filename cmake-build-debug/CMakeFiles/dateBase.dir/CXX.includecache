@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lada/CLionProjects/dateBase/date.h
+iostream
+-
+iomanip
+-
+
+/home/lada/CLionProjects/dateBase/node.cpp
+node.h
+/home/lada/CLionProjects/dateBase/node.h
+
+/home/lada/CLionProjects/dateBase/node.h
+date.h
+/home/lada/CLionProjects/dateBase/date.h
+memory
+-
+
